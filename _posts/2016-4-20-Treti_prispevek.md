@@ -1,5 +1,6 @@
 ---
 layout: post
+featured: images/pic03.jpg
 title: Náš tým a naše motivace
 ---
 
