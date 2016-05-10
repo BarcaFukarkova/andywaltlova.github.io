@@ -1,5 +1,6 @@
 ---
 layout: post
+featured: images/pic01.jpg
 title: Úkol do Remixování webu - něco více k IA
 ---
 

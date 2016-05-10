@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: post
 title: Informační architektura
-permalink: /about/
 ---
 
 Cílové skupiny
