@@ -5,20 +5,20 @@ title: Informační architektura
 <!DOCTYPE html>
 <html>
     <body>      
-        <h2>Cílové skupiny</h2>
+        <h1>Cílové skupiny</h1>
         <p>Začátečníci ve vytváření webů, studenti informačních studií a příbuzných oborů.</p>
         
-        <h2>Cíl webu</h2>
+        <h1>Cíl webu</h1>
         <p>Cílem našeho webu je shrnutí tématu IA: vysvětlení, co IA je, proč a jak ji správně aplikovat spolu s aspekty UX a SEO při tvorbě a strukturování webového obsahu včetně multimédií (obrázky, videa atp.). Informace by měly být užitečné a srozumitelné přibližně na úrovni začínajícího tvůrce webů nebo studenta. Uživatel, který k nám zavítá pro radu, by měl odcházet s pocitem, že se dozvěděl něco nového. Samozřejmě je naším cílem udělat takový web, který splní podmínky pro ukončení kurzu.</p>
         
-        <h2>Název webu </h2>
+        <h1>Název webu </h1>
         <p>Informační architektura – co to vlastně je?</p>
         
-        <h2>Webové zdroje</h2>
+        <h1>Webové zdroje</h1>
         <ol>
 <li><a href="http://is.muni.cz/th/327463/ff_b/Bakalarska_prace_Lucie_Dvorakova.pdf?zpet=%2Fvyhledavani%2F%3Fsearch%3Dinforma%C4%8Dn%C3%AD%20architektura%20agenda%3Ath%26start%3D1">Bakalářská práce na téma informační architektury </a></li>
 
-<li>[Článek na Inflow - výtah z bakalářské práce](<a href="http://www.inflow.cz/postup-pri-tvorbe-informacni-architektury-webove-prezentace">) </a></li>
+<li><a href="http://www.inflow.cz/postup-pri-tvorbe-informacni-architektury-webove-prezentace">Článek na Inflow - výtah z bakalářské práce</a></li>
 
 <li> <a href="http://www.inflow.cz/informacni-architektura">Článek na Inflow </a></li>
 
