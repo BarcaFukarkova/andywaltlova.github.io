@@ -14,7 +14,7 @@ title: Informační architektura
         font-weight: 400;
         }
         
-        li {list-style: decimal;
+        li {
         list-style-type: decimal;
         }
     </style>
@@ -52,41 +52,34 @@ title: Informační architektura
         <h1>Newebové zdroje</h1>
 <p>Papírových zdrojů moc není, některé z těchto knih se dají zakoupit jak v papírové, tak v elektronické formě</p>
 <ol>
-<li>1. ROSENFELD, Louis, MORVILLE, Peter. Information architecture for the World Wide Web. 2nd edition. Sebastopol : O'Reilly, c2002. 461 s. ISBN 0-596-00035-9. Dostupné z: 
+<li>ROSENFELD, Louis, MORVILLE, Peter. Information architecture for the World Wide Web. 2nd edition. Sebastopol : O'Reilly, c2002. 461 s. ISBN 0-596-00035-9. Dostupné z: 
     <a href="https://books.google.cz/books?id=OM3DvakML-MC&printsec=frontcover&dq=Information+architecture+for+the+World+Wide+Web&lr=&cd=1#v=onepage&q=&f=false">Google books</a></li> 
 
-<li>2. MORROGH, Earl. Information architecture: an emerging 21st century profession [online]. Upper Saddle River, NJ: Prentice Hall, c2003 [cit. 2016-04-19]. ISBN 01-309-6746-7.</li>
+<li>MORROGH, Earl. Information architecture: an emerging 21st century profession [online]. Upper Saddle River, NJ: Prentice Hall, c2003 [cit. 2016-04-19]. ISBN 01-309-6746-7.</li>
 
-<li>3. DIJCK, Peter Van. Information architecture for designers: structuring websites for business success. [online]. 1. vydání: Švýcarsko: RotoVision SA, 2003. ISBN 2-88046-731-4. Dostupné z:<a href="http://books.google.cz/books?id=Wy2sb0r_udYC&printsec=frontcover&dq=#v=onepage&q&f=false+Wide+Web
+<li>DIJCK, Peter Van. Information architecture for designers: structuring websites for business success. [online]. 1. vydání: Švýcarsko: RotoVision SA, 2003. ISBN 2-88046-731-4. Dostupné z:<a href="http://books.google.cz/books?id=Wy2sb0r_udYC&printsec=frontcover&dq=#v=onepage&q&f=false+Wide+Web
 &lr=&source=gbs_similarbooks_s&cad=1#v=onepage&q=Information%20architecture%20for%20the%20World%20Wide%20Web&f=false">Google books</a> </li>
 
-<li>4. MACDONALD, Nico. What is web design? [online]. 1. vydání: Švýcarsko: RotoVision SA, 2003. ISBN 2-88046-686-5. Dostupné z:<a href="http://books.google.cz/books?id=YIzEcmM8cD8C&printsec=frontcover&dq=Information+architecture+for+the+World+
+<li>MACDONALD, Nico. What is web design? [online]. 1. vydání: Švýcarsko: RotoVision SA, 2003. ISBN 2-88046-686-5. Dostupné z:<a href="http://books.google.cz/books?id=YIzEcmM8cD8C&printsec=frontcover&dq=Information+architecture+for+the+World+
 Wide+Web&lr=&source=gbs_similarbooks_s&cad=1#v=onepage&q=Information%20architecture%20for%20the%20World%20Wide%20Web&f=false">Google books</a> </li>
 
-<li>5. VEST, Jeremy; PORCHRAN, Shannon; CROWSON,William. Exploring web design. [online]. 1. vydání. USA: Thomson Delmar Learning, 2005. ISBN 1-4018-7838-5. Dostupné z: <a href="http://books.google.cz/books?id=pTc5X32f5_4C&printsec=frontcover&dq=Information+architecture+for+the+
+<li>VEST, Jeremy; PORCHRAN, Shannon; CROWSON,William. Exploring web design. [online]. 1. vydání. USA: Thomson Delmar Learning, 2005. ISBN 1-4018-7838-5. Dostupné z: <a href="http://books.google.cz/books?id=pTc5X32f5_4C&printsec=frontcover&dq=Information+architecture+for+the+
     World+Wide+Web&lr=&source=gbs_similarbooks_s&cad=1#v=onepage&q=&f=false">Google books</a></li>
         </ol>      
         <h1>Dostupná multimédia </h1>
 <h2>Videa - Dostupných jich je mnohem více</h2>
 <ol>
 <li>Understanding Information Architecture - Dan Klyn and Shari Thurow at UXPA 2013 <a>https://www.youtube.com/watch?v=_9kcfq4jqlc</a><li>
-
 <li>Understanding Information Architecture with Brian Miller <a>https://www.youtube.com/watch?v=Ytv21Jx0hD4</a><li>
-
 <li>UX tutorial: What is information architecture?lynda.com <a>https://www.youtube.com/watch?v=-b6-tuyWmi8</a> <li>
-
 <li>User Interface (UX) TechniquesJanne Jul Jensen <a>https://www.youtube.com/watch?v=7OSkB4BCx00</a><li>
-
 <li>The new information architecture <a>https://www.youtube.com/watch?v=Fou5J7j5uzk</a><li>
-
 <li>Information Architecture <a>https://www.youtube.com/watch?v=xVgepwWXgVo</a><li>
     </ol>
 <h2>Obrázky</h2>
 <ol>
 <li>Infografika <a>http://www.keencomputer.com/images/KEENCOMP/InfoormationArch/ia-explained.jpg</a><li>
-
 <li>Vennův diagram vystihující IA <a>http://s.hswstatic.com/gif/illustration-information-architecture-1.gif </a><li>
-
 <li><a>Struktura webu příklad http://blogs.library.duke.edu/wp-content/uploads/2013/03/lib-ia-1.3.1-20130311.png</a><li>
 </ol>
         <h1>Vizuální inspirace pro budoucí vzhled webu</h1>
@@ -95,7 +88,7 @@ Wide+Web&lr=&source=gbs_similarbooks_s&cad=1#v=onepage&q=Information%20architect
         
         <h1>Základní obsah webu</h1>
 <ol>        
-<li> Co je to IA?<li>
+<li>Co je to IA?<li>
 <li>Čím se zabývá IA?<li>
 <li>Principy IA<li>
 <li>Proč používat IA?<li>
