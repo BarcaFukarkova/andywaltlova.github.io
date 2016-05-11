@@ -69,35 +69,36 @@ Wide+Web&lr=&source=gbs_similarbooks_s&cad=1#v=onepage&q=Information%20architect
         <h1>Dostupná multimédia </h1>
 <h2>Videa - Dostupných jich je mnohem více</h2>
 <ol>
-<li>Understanding Information Architecture - Dan Klyn and Shari Thurow at UXPA 2013 <a>https://www.youtube.com/watch?v=_9kcfq4jqlc</a><li>
-<li>Understanding Information Architecture with Brian Miller <a>https://www.youtube.com/watch?v=Ytv21Jx0hD4</a><li>
-<li>UX tutorial: What is information architecture?lynda.com <a>https://www.youtube.com/watch?v=-b6-tuyWmi8</a> <li>
-<li>User Interface (UX) TechniquesJanne Jul Jensen <a>https://www.youtube.com/watch?v=7OSkB4BCx00</a><li>
-<li>The new information architecture <a>https://www.youtube.com/watch?v=Fou5J7j5uzk</a><li>
-<li>Information Architecture <a>https://www.youtube.com/watch?v=xVgepwWXgVo</a><li>
+
+    <li>Understanding Information Architecture - Dan Klyn and Shari Thurow at UXPA 2013 <a>https://www.youtube.com/watch?v=_9kcfq4jqlc</a></li>
+    <li>Understanding Information Architecture with Brian Miller <a>https://www.youtube.com/watch?v=Ytv21Jx0hD4</a></li>
+    <li>UX tutorial: What is information architecture?lynda.com <a>https://www.youtube.com/watch?v=-b6-tuyWmi8</a> </li>
+    <li>User Interface (UX) TechniquesJanne Jul Jensen <a>https://www.youtube.com/watch?v=7OSkB4BCx00</a></li>
+    <li>The new information architecture <a>https://www.youtube.com/watch?v=Fou5J7j5uzk</a></li>
+    <li>Information Architecture <a>https://www.youtube.com/watch?v=xVgepwWXgVo</a></li>
     </ol>
 <h2>Obrázky</h2>
 <ol>
-<li>Infografika <a>http://www.keencomputer.com/images/KEENCOMP/InfoormationArch/ia-explained.jpg</a><li>
-<li>Vennův diagram vystihující IA <a>http://s.hswstatic.com/gif/illustration-information-architecture-1.gif </a><li>
-<li><a>Struktura webu příklad http://blogs.library.duke.edu/wp-content/uploads/2013/03/lib-ia-1.3.1-20130311.png</a><li>
+    <li>Infografika <a>http://www.keencomputer.com/images/KEENCOMP/InfoormationArch/ia-explained.jpg</a></li>
+    <li>Vennův diagram vystihující IA <a>http://s.hswstatic.com/gif/illustration-information-architecture-1.gif </a></li>
+    <li><a>Struktura webu příklad http://blogs.library.duke.edu/wp-content/uploads/2013/03/lib-ia-1.3.1-20130311.png</a></li>
 </ol>
         <h1>Vizuální inspirace pro budoucí vzhled webu</h1>
 <p>Jelikož se zabýváme IA, tak by měl web jít příkladem a být co nejvíce user friendly.
-    Jako inspiraci bychom nejspíše použili nějakou ze šablon dostupných na <a>http://jekyllthemes.io/</a> nebo na <a>http://jekyllthemes.io/</a>.</p>
+Jako inspiraci bychom nejspíše použili nějakou ze šablon dostupných na <a>http://jekyllthemes.io/</a> nebo na <a>http://jekyllthemes.io/</a>.</p>
         
-        <h1>Základní obsah webu</h1>
+    <h1>Základní obsah webu</h1>
 <ol>        
-<li>Co je to IA?<li>
-<li>Čím se zabývá IA?<li>
-<li>Principy IA<li>
-<li>Proč používat IA?<li>
-<li>Kde se s IA potkáme?<li>
-<li>Správa obsahu<li>
-<li>Skupiny uživatelů<li>
-<li>Organizační struktury<li>
-<li>Navigace v IA<li>
-<li>Příklady vhodného či nevhodného použití IA<li>
+    <li>Co je to IA?</li>
+    <li>Čím se zabývá IA?</li>
+    <li>Principy IA</li>
+    <li>Proč používat IA?</li>
+    <li>Kde se s IA potkáme?</li>
+    li><li>Správa obsahu</li>
+    <li>Skupiny uživatelů</li>
+    <li>Organizační struktury</li>
+    <li>Navigace v IA</li>
+    <li>Příklady vhodného či nevhodného použití IA</li>
     </ol>
 
         <h1>Strategie zveřejňování obsahu</h1> 
