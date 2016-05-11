@@ -52,7 +52,7 @@ Wide+Web&lr=&source=gbs_similarbooks_s&cad=1#v=onepage&q=Information%20architect
 World+Wide+Web&lr=&source=gbs_similarbooks_s&cad=1#v=onepage&q=&f=false
 
 Dostupná multimédia 
-----------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------
 Videa - Dostupných jich je mnohem více
 
 1. [Understanding Information Architecture - Dan Klyn and Shari Thurow at UXPA 2013](https://www.youtube.com/watch?v=_9kcfq4jqlc) 
@@ -97,6 +97,6 @@ Základní obsah webu
 1. Příklady vhodného či nevhodného použití IA
 
 Strategie zveřejňování obsahu
-----------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------
 Informace o IA chceme zveřejňovat postupně v jednotlivých “lekcích” (viz předcházející úkol). Obsah bych samozřejmě ilustrovala vizuálním materiálem: obrázky, infografika, videa, prezentace atp.
 
