@@ -9,6 +9,9 @@ title: Informační architektura
         h1{font-size: 140%; 
         font-weight: 600;
         }
+        h2{font-size: 120%; 
+        font-weight: 400;}
+        li{list-style: decimal}
     </style>
     </head>
     <body>      
@@ -59,7 +62,7 @@ Wide+Web&lr=&source=gbs_similarbooks_s&cad=1#v=onepage&q=Information%20architect
     World+Wide+Web&lr=&source=gbs_similarbooks_s&cad=1#v=onepage&q=&f=false">Google books</a></li>
         </ol>      
         <h1>Dostupná multimédia </h1>
-<p>Videa - Dostupných jich je mnohem více</p>
+<h2>Videa - Dostupných jich je mnohem více</h2>
 <ol>
 <li>Understanding Information Architecture - Dan Klyn and Shari Thurow at UXPA 2013 <a>https://www.youtube.com/watch?v=_9kcfq4jqlc</a><li>
 
@@ -73,7 +76,7 @@ Wide+Web&lr=&source=gbs_similarbooks_s&cad=1#v=onepage&q=Information%20architect
 
 <li>Information Architecture <a>https://www.youtube.com/watch?v=xVgepwWXgVo</a><li>
 
-<p>Obrázky</p>
+<h2>Obrázky</h2>
 
 <li>Infografika <a>http://www.keencomputer.com/images/KEENCOMP/InfoormationArch/ia-explained.jpg</a><li>
 
