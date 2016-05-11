@@ -2,58 +2,57 @@
 layout: post
 title: Informační architektura
 ---
+<!DOCTYPE html>
+<html>
+    <body>      
+        <h2>Cílové skupiny</h2>
+        <p>Začátečníci ve vytváření webů, studenti informačních studií a příbuzných oborů.</p>
+        
+        <h2>Cíl webu</h2>
+        <p>Cílem našeho webu je shrnutí tématu IA: vysvětlení, co IA je, proč a jak ji správně aplikovat spolu s aspekty UX a SEO při tvorbě a strukturování webového obsahu včetně multimédií (obrázky, videa atp.). Informace by měly být užitečné a srozumitelné přibližně na úrovni začínajícího tvůrce webů nebo studenta. Uživatel, který k nám zavítá pro radu, by měl odcházet s pocitem, že se dozvěděl něco nového. Samozřejmě je naším cílem udělat takový web, který splní podmínky pro ukončení kurzu.</p>
+        
+        <h2>Název webu </h2>
+        <p>Informační architektura – co to vlastně je?</p>
+        
+        <h2>Webové zdroje</h2>
+        <ol>
+<li><a href="http://is.muni.cz/th/327463/ff_b/Bakalarska_prace_Lucie_Dvorakova.pdf?zpet=%2Fvyhledavani%2F%3Fsearch%3Dinforma%C4%8Dn%C3%AD%20architektura%20agenda%3Ath%26start%3D1">Bakalářská práce na téma informační architektury </a></li>
 
-Cílové skupiny
------------------------------------------------------
-Začátečníci ve vytváření webů, studenti informačních studií a příbuzných oborů.
+<li>[Článek na Inflow - výtah z bakalářské práce](<a href="http://www.inflow.cz/postup-pri-tvorbe-informacni-architektury-webove-prezentace">) </a></li>
 
-Cíl webu
------------------------------------------------------
-Cílem našeho webu je shrnutí tématu IA: vysvětlení, co IA je, proč a jak ji správně aplikovat spolu s aspekty UX a SEO při tvorbě a strukturování webového obsahu včetně multimédií (obrázky, videa atp.). Informace by měly být užitečné a srozumitelné přibližně na úrovni začínajícího tvůrce webů nebo studenta. Uživatel, který k nám zavítá pro radu, by měl odcházet s pocitem, že se dozvěděl něco nového. Samozřejmě je naším cílem udělat takový web, který splní podmínky pro ukončení kurzu.
+<li> <a href="http://www.inflow.cz/informacni-architektura">Článek na Inflow </a></li>
 
-Název webu 
------------------------------------------------------
-Informační architektura – co to vlastně je?
+<li><a href="https://cs.wikipedia.org/wiki/Informa%C4%8Dn%C3%AD_architektura">Článek na Wikipedii</a></li>
 
-Webové zdroje
-----------------------------------------------------------------------------------------------------------
+<li><a href="http://www.iainstitute.org/what-is-ia">Anglická stránka zabývající se IA</a></li>
 
-1. [Bakalářská práce na téma informační architektury](http://is.muni.cz/th/327463/ff_b/Bakalarska_prace_Lucie_Dvorakova.pdf?zpet=%2Fvyhledavani%2F%3Fsearch%3Dinforma%C4%8Dn%C3%AD%20architektura%20agenda%3Ath%26start%3D1)
+<li><a href="shttp://www.usability.gov/what-and-why/information-architecture.html">Další anglický web, zabývající se i User Experience</a></li>
 
-2. [Článek na Inflow - výtah z bakalářské práce](http://www.inflow.cz/postup-pri-tvorbe-informacni-architektury-webove-prezentace)
+<li><a href="http://www.uxbooth.com/articles/complete-beginners-guide-to-information-architecture">Anglický článek </a></li>
 
-3. [Článek na Inflow ](http://www.inflow.cz/informacni-architektura)
+<li><a href="http://www.adaptic.cz/znalosti/efektivni-web/informacni-architektura">Krátký článek v češtině</a></li>
+            </ol>
+       
+        
+        <h2>Newebové zdroje</h2>
+<p>Papírových zdrojů moc není, některé z těchto knih se dají zakoupit jak v papírové, tak v elektronické formě</p>
+<ol>
+<li>1. ROSENFELD, Louis, MORVILLE, Peter. Information architecture for the World Wide Web. 2nd edition. Sebastopol : O'Reilly, c2002. 461 s. ISBN 0-596-00035-9. Dostupné z: 
+    <a href="https://books.google.cz/books?id=OM3DvakML-MC&printsec=frontcover&dq=Information+architecture+for+the+World+Wide+Web&lr=&cd=1#v=onepage&q=&f=false"></a></li> 
 
-4. [Článek na Wikipedii](https://cs.wikipedia.org/wiki/Informa%C4%8Dn%C3%AD_architektura)
+<li>2. MORROGH, Earl. Information architecture: an emerging 21st century profession [online]. Upper Saddle River, NJ: Prentice Hall, c2003 [cit. 2016-04-19]. ISBN 01-309-6746-7.</li>
 
-5. [Anglická stránka zabývající se IA](http://www.iainstitute.org/what-is-ia )
+<li>3. DIJCK, Peter Van. Information architecture for designers: structuring websites for business success. [online]. 1. vydání: Švýcarsko: RotoVision SA, 2003. ISBN 2-88046-731-4. Dostupné z:<a href="http://books.google.cz/books?id=Wy2sb0r_udYC&printsec=frontcover&dq=#v=onepage&q&f=false+Wide+Web
+&lr=&source=gbs_similarbooks_s&cad=1#v=onepage&q=Information%20architecture%20for%20the%20World%20Wide%20Web&f=false"></a> </li>
 
-6. [Další anglický web, zabývající se i User Experience](http://www.usability.gov/what-and-why/information-architecture.html) 
+<li>4. MACDONALD, Nico. What is web design? [online]. 1. vydání: Švýcarsko: RotoVision SA, 2003. ISBN 2-88046-686-5. Dostupné z:<a href="http://books.google.cz/books?id=YIzEcmM8cD8C&printsec=frontcover&dq=Information+architecture+for+the+World+
+Wide+Web&lr=&source=gbs_similarbooks_s&cad=1#v=onepage&q=Information%20architecture%20for%20the%20World%20Wide%20Web&f=false"></a> </li>
 
-7. [Anglický článek](http://www.uxbooth.com/articles/complete-beginners-guide-to-information-architecture/)
-
-8. [Krátký článek v češtině](http://www.adaptic.cz/znalosti/efektivni-web/informacni-architektura/)
-
-Newebové zdroje
------------------------------------------------------
-Papírových zdrojů moc není, některé z těchto knih se dají zakoupit jak v papírové, tak v elektronické formě
-
-1. ROSENFELD, Louis, MORVILLE, Peter. Information architecture for the World Wide Web. 2nd edition. Sebastopol : O'Reilly, c2002. 461 s. ISBN 0-596-00035-9. Dostupné z: https://books.google.cz/books?id=OM3DvakML-MC&printsec=frontcover&dq=Information+architecture+for+the+World+Wide+Web&lr=&cd=1#v=onepage&q=&f=false 
-
-2. MORROGH, Earl. Information architecture: an emerging 21st century profession [online]. Upper Saddle River, NJ: Prentice Hall, c2003 [cit. 2016-04-19]. ISBN 01-309-6746-7.
-
-3. DIJCK, Peter Van. Information architecture for designers: structuring websites for business success. [online]. 1. vydání: Švýcarsko: RotoVision SA, 2003. ISBN 2-88046-731-4. Dostupné z: http://books.google.cz/books?id=Wy2sb0r_udYC&printsec=frontcover&dq=#v=onepage&q&f=false+Wide+Web
-&lr=&source=gbs_similarbooks_s&cad=1#v=onepage&q=Information%20architecture%20for%20the%20World%20Wide%20Web&f=false
-
-4. MACDONALD, Nico. What is web design? [online]. 1. vydání: Švýcarsko: RotoVision SA, 2003. ISBN 2-88046-686-5. Dostupné z: http://books.google.cz/books?id=YIzEcmM8cD8C&printsec=frontcover&dq=Information+architecture+for+the+World+
-Wide+Web&lr=&source=gbs_similarbooks_s&cad=1#v=onepage&q=Information%20architecture%20for%20the%20World%20Wide%20Web&f=false
-
-5. VEST, Jeremy; PORCHRAN, Shannon; CROWSON,William. Exploring web design. [online]. 1. vydání. USA: Thomson Delmar Learning, 2005. ISBN 1-4018-7838-5. Dostupné z: http://books.google.cz/books?id=pTc5X32f5_4C&printsec=frontcover&dq=Information+architecture+for+the+
-World+Wide+Web&lr=&source=gbs_similarbooks_s&cad=1#v=onepage&q=&f=false
-
-Dostupná multimédia 
--------------------------------------------------------------------------------------------------------
-Videa - Dostupných jich je mnohem více
+<li>5. VEST, Jeremy; PORCHRAN, Shannon; CROWSON,William. Exploring web design. [online]. 1. vydání. USA: Thomson Delmar Learning, 2005. ISBN 1-4018-7838-5. Dostupné z: <a href="http://books.google.cz/books?id=pTc5X32f5_4C&printsec=frontcover&dq=Information+architecture+for+the+
+    World+Wide+Web&lr=&source=gbs_similarbooks_s&cad=1#v=onepage&q=&f=false"></a></li>
+        </ol>      
+        <h2>Dostupná multimédia </h2>
+<p>Videa - Dostupných jich je mnohem více</p>
 
 1. [Understanding Information Architecture - Dan Klyn and Shari Thurow at UXPA 2013](https://www.youtube.com/watch?v=_9kcfq4jqlc) 
 
@@ -67,7 +66,7 @@ Videa - Dostupných jich je mnohem více
 
 6. [Information Architecture](https://www.youtube.com/watch?v=xVgepwWXgVo )
 
-Obrázky
+<p>Obrázky</p>
 
 1. [Infografika](http://www.keencomputer.com/images/KEENCOMP/InfoormationArch/ia-explained.jpg )
 
@@ -75,16 +74,12 @@ Obrázky
 
 3. [Struktura webu příklad](http://blogs.library.duke.edu/wp-content/uploads/2013/03/lib-ia-1.3.1-20130311.png )
 
-Vizuální inspirace pro budoucí vzhled webu
-----------------------------------------------------------------------------------------------------------
-
-Jelikož se zabýváme IA, tak by měl web jít příkladem a být co nejvíce user friendly.
-
-Jako inspiraci bychom nejspíše použili nějakou ze šablon dostupných na [http://jekyllthemes.io/](http://jekyllthemes.io/) nebo na [http://jekyllthemes.io/](http://jekyllthemes.io/).
-
-Základní obsah webu
-----------------------------------------------------------------------------------------------------------
-
+        <h2>Vizuální inspirace pro budoucí vzhled webu</h2>
+<p>Jelikož se zabýváme IA, tak by měl web jít příkladem a být co nejvíce user friendly.
+Jako inspiraci bychom nejspíše použili nějakou ze šablon dostupných na [http://jekyllthemes.io/](http://jekyllthemes.io/) nebo na [http://jekyllthemes.io/](http://jekyllthemes.io/).</p>
+        
+        <h2>Základní obsah webu</h2>
+        
 1. Co je to IA?
 1. Čím se zabývá IA?
 1. Principy IA
@@ -96,7 +91,8 @@ Základní obsah webu
 1. Navigace v IA
 1. Příklady vhodného či nevhodného použití IA
 
-Strategie zveřejňování obsahu
--------------------------------------------------------------------------------------------------------
-Informace o IA chceme zveřejňovat postupně v jednotlivých “lekcích” (viz předcházející úkol). Obsah bych samozřejmě ilustrovala vizuálním materiálem: obrázky, infografika, videa, prezentace atp.
+        <h2>Strategie zveřejňování obsahu</h2> 
+    <p>Informace o IA chceme zveřejňovat postupně v jednotlivých “lekcích” (viz předcházející úkol). Obsah bych samozřejmě ilustrovala vizuálním materiálem: obrázky, infografika, videa, prezentace atp.</p>
+    </body>
+</html>
 
