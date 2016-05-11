@@ -6,12 +6,17 @@ title: Informační architektura
 <html>
     <head>
     <style>
-        h1{font-size: 140%; 
+        h1 {font-size: 140%; 
         font-weight: 600;
         }
-        h2{font-size: 120%; 
-        font-weight: 400;}
-        li{list-style: decimal}
+        
+        h2 {font-size: 120%; 
+        font-weight: 400;
+        }
+        
+        li {list-style: decimal;
+        list-style-type: decimal;
+        }
     </style>
     </head>
     <body>      
@@ -75,9 +80,9 @@ Wide+Web&lr=&source=gbs_similarbooks_s&cad=1#v=onepage&q=Information%20architect
 <li>The new information architecture <a>https://www.youtube.com/watch?v=Fou5J7j5uzk</a><li>
 
 <li>Information Architecture <a>https://www.youtube.com/watch?v=xVgepwWXgVo</a><li>
-
+    </ol>
 <h2>Obrázky</h2>
-
+<ol>
 <li>Infografika <a>http://www.keencomputer.com/images/KEENCOMP/InfoormationArch/ia-explained.jpg</a><li>
 
 <li>Vennův diagram vystihující IA <a>http://s.hswstatic.com/gif/illustration-information-architecture-1.gif </a><li>
