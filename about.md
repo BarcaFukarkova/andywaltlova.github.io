@@ -6,8 +6,8 @@ title: Informační architektura
 <html>
     <head>
     <style>
-        h1{font-size: 40%; 
-            
+        h1{font-size: 140%; 
+        font-weight: 600;
         }
     </style>
     </head>
@@ -41,7 +41,7 @@ title: Informační architektura
             </ol>
        
         
-        <h2>Newebové zdroje</h2>
+        <h1>Newebové zdroje</h1>
 <p>Papírových zdrojů moc není, některé z těchto knih se dají zakoupit jak v papírové, tak v elektronické formě</p>
 <ol>
 <li>1. ROSENFELD, Louis, MORVILLE, Peter. Information architecture for the World Wide Web. 2nd edition. Sebastopol : O'Reilly, c2002. 461 s. ISBN 0-596-00035-9. Dostupné z: 
@@ -58,34 +58,34 @@ Wide+Web&lr=&source=gbs_similarbooks_s&cad=1#v=onepage&q=Information%20architect
 <li>5. VEST, Jeremy; PORCHRAN, Shannon; CROWSON,William. Exploring web design. [online]. 1. vydání. USA: Thomson Delmar Learning, 2005. ISBN 1-4018-7838-5. Dostupné z: <a href="http://books.google.cz/books?id=pTc5X32f5_4C&printsec=frontcover&dq=Information+architecture+for+the+
     World+Wide+Web&lr=&source=gbs_similarbooks_s&cad=1#v=onepage&q=&f=false">Google books</a></li>
         </ol>      
-        <h2>Dostupná multimédia </h2>
+        <h1>Dostupná multimédia </h1>
 <p>Videa - Dostupných jich je mnohem více</p>
 <ol>
-<li>Understanding Information Architecture - Dan Klyn and Shari Thurow at UXPA 2013 https://www.youtube.com/watch?v=_9kcfq4jqlc<li>
+<li>Understanding Information Architecture - Dan Klyn and Shari Thurow at UXPA 2013 <a>https://www.youtube.com/watch?v=_9kcfq4jqlc</a><li>
 
-<li>Understanding Information Architecture with Brian Miller https://www.youtube.com/watch?v=Ytv21Jx0hD4<li>
+<li>Understanding Information Architecture with Brian Miller <a>https://www.youtube.com/watch?v=Ytv21Jx0hD4</a><li>
 
-<li>UX tutorial: What is information architecture?lynda.com https://www.youtube.com/watch?v=-b6-tuyWmi8 <li>
+<li>UX tutorial: What is information architecture?lynda.com <a>https://www.youtube.com/watch?v=-b6-tuyWmi8</a> <li>
 
-<li>User Interface (UX) TechniquesJanne Jul Jensen https://www.youtube.com/watch?v=7OSkB4BCx00<li>
+<li>User Interface (UX) TechniquesJanne Jul Jensen <a>https://www.youtube.com/watch?v=7OSkB4BCx00</a><li>
 
-<li>The new information architecture https://www.youtube.com/watch?v=Fou5J7j5uzk<li>
+<li>The new information architecture <a>https://www.youtube.com/watch?v=Fou5J7j5uzk</a><li>
 
-<li>Information Architecture https://www.youtube.com/watch?v=xVgepwWXgVo<li>
+<li>Information Architecture <a>https://www.youtube.com/watch?v=xVgepwWXgVo</a><li>
 
 <p>Obrázky</p>
 
-<li>Infografika http://www.keencomputer.com/images/KEENCOMP/InfoormationArch/ia-explained.jpg<li>
+<li>Infografika <a>http://www.keencomputer.com/images/KEENCOMP/InfoormationArch/ia-explained.jpg</a><li>
 
-<li>Vennův diagram vystihující IA http://s.hswstatic.com/gif/illustration-information-architecture-1.gif <li>
+<li>Vennův diagram vystihující IA <a>http://s.hswstatic.com/gif/illustration-information-architecture-1.gif </a><li>
 
-<li>Struktura webu příklad http://blogs.library.duke.edu/wp-content/uploads/2013/03/lib-ia-1.3.1-20130311.png<li>
+<li><a>Struktura webu příklad http://blogs.library.duke.edu/wp-content/uploads/2013/03/lib-ia-1.3.1-20130311.png</a><li>
 </ol>
-        <h2>Vizuální inspirace pro budoucí vzhled webu</h2>
+        <h1>Vizuální inspirace pro budoucí vzhled webu</h1>
 <p>Jelikož se zabýváme IA, tak by měl web jít příkladem a být co nejvíce user friendly.
-Jako inspiraci bychom nejspíše použili nějakou ze šablon dostupných na [http://jekyllthemes.io/](http://jekyllthemes.io/) nebo na [http://jekyllthemes.io/](http://jekyllthemes.io/).</p>
+    Jako inspiraci bychom nejspíše použili nějakou ze šablon dostupných na <a>http://jekyllthemes.io/</a> nebo na <a>http://jekyllthemes.io/</a>.</p>
         
-        <h2>Základní obsah webu</h2>
+        <h1>Základní obsah webu</h1>
 <ol>        
 <li> Co je to IA?<li>
 <li>Čím se zabývá IA?<li>
@@ -99,7 +99,7 @@ Jako inspiraci bychom nejspíše použili nějakou ze šablon dostupných na [ht
 <li>Příklady vhodného či nevhodného použití IA<li>
     </ol>
 
-        <h2>Strategie zveřejňování obsahu</h2> 
+        <h1>Strategie zveřejňování obsahu</h1> 
     <p>Informace o IA chceme zveřejňovat postupně v jednotlivých “lekcích” (viz předcházející úkol). Obsah bych samozřejmě ilustrovala vizuálním materiálem: obrázky, infografika, videa, prezentace atp.</p>
     </body>
 </html>
