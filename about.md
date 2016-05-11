@@ -94,7 +94,7 @@ Jako inspiraci bychom nejspíše použili nějakou ze šablon dostupných na <a>
     <li>Principy IA</li>
     <li>Proč používat IA?</li>
     <li>Kde se s IA potkáme?</li>
-    li><li>Správa obsahu</li>
+    <li>Správa obsahu</li>
     <li>Skupiny uživatelů</li>
     <li>Organizační struktury</li>
     <li>Navigace v IA</li>
