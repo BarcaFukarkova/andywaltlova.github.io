@@ -3,8 +3,9 @@ layout: post
 featured: images/Historie.jpg
 title: Historie Informační Architektury
 ---
+
 Historie IA
--------------
+=============
 
 Termín informační architektura použil poprvé v roce 1975 americký architekt a grafik Richard Saul Wurman, který pojmenoval článek Beyond Graphics: The architecture of information. O rok později Wurman vystupuje na konferenci American Institute of Architecture a spojuje termíny informační a architektura v jeden celek. Sám se pak označil jako informační architekt. V rozhovoru s Dirkem Knemeyerem v roce 2004 Wurman pronesl: 
 
@@ -17,6 +18,7 @@ Pojem informační architektura jako vědní disciplína se objevuje v roce 2000
 >„Informační architektura zahrnuje návrh organizace, označování, navigaci a vyhledávací systémy, které pomůžou lidem najít a spravovat informace úspěšněji.”
 
 [Zdroj](https://cs.wikipedia.org/wiki/Informa%C4%8Dn%C3%AD_architektura)
+
 [Zdroj obrázek](http://extrastory.cz/images/2014/10-rijen/10-3/9-9017-1-footofan-com-1413035604.jpg)
 
 
