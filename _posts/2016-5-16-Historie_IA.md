@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: images/Hitorie.jpg
+featured: images/Historie.jpg
 title: Historie Informační Architektury
 ---
 Historie IA
