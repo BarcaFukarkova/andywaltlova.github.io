@@ -9,7 +9,7 @@ Uživatelé
 
 Stejně jako ve fyzickém světe, je důležité uspořádat obsah tak, aby se v něm uživatel snadno orientoval a byl schopen snadno a rychle najít to co hledá. Uživatelem se samozřejmě rozumí člověk. Informační architekt proto stálé zkoumá chování uživatelů, jejich potřeby a myšlení. Snaží se vytvořit a přizpůsobit web podle jejich představ.
 
-![Graf](andywaltlova.github.io/assets/images/lidé2.jpg "Graf")
+![Graf](/images/lidé2.jpg "Graf")
 
 Obsah
 -------
