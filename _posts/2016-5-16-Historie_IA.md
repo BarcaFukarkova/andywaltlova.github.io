@@ -26,7 +26,8 @@ Pojem informační architektura jako vědní disciplína se objevuje v roce 2000
 [Zdroj obrázek v textu](https://cs.wikipedia.org/wiki/Jeskynn%C3%AD_mal%C3%AD%C5%99stv%C3%AD#/media/File:Lascaux_03.jpg)
 
 
-Další relevantní externí zdroje 
+Další relevantní externí zdroje
+
 [Zdroj 1 - Ikaros](http://ikaros.cz/informacna-architektura)
 
 [Zdroj 2 - Inventic](https://www.inventic.cz/informacni-architektura.html)
