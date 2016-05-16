@@ -29,6 +29,7 @@ Značí prostředí a možnosti pro tvorbu informační architektury. Zahrnuje i
 
 
 Další relevantní externí zdroje 
+
 [Zdroj 1 - HCI](https://cs.wikipedia.org/wiki/Human_Centered_Design)
 
 [Zdroj 2 - UX](http://www.lupa.cz/clanky/user-experience-poznejte-sve-uzivatele/)
