@@ -4,7 +4,7 @@ featured: images/Historie.jpg
 title: Historie Informační Architektury
 ---
 
-# Historie IA
+**Historie IA**
 
 
 Termín informační architektura použil poprvé v roce 1975 americký architekt a grafik Richard Saul Wurman, který pojmenoval článek Beyond Graphics: The architecture of information. O rok později Wurman vystupuje na konferenci American Institute of Architecture a spojuje termíny informační a architektura v jeden celek. Sám se pak označil jako informační architekt. V rozhovoru s Dirkem Knemeyerem v roce 2004 Wurman pronesl: 
