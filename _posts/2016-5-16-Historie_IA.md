@@ -1,6 +1,6 @@
 ---
 layout: post
-featured: images/pic02.jpg
+featured: images/Hitorie.jpg
 title: Historie Informační Architektury
 ---
 Historie IA
@@ -17,6 +17,8 @@ Pojem informační architektura jako vědní disciplína se objevuje v roce 2000
 >„Informační architektura zahrnuje návrh organizace, označování, navigaci a vyhledávací systémy, které pomůžou lidem najít a spravovat informace úspěšněji.”
 
 [Zdroj](https://cs.wikipedia.org/wiki/Informa%C4%8Dn%C3%AD_architektura)
+[Zdroj obrázek](http://extrastory.cz/images/2014/10-rijen/10-3/9-9017-1-footofan-com-1413035604.jpg)
+
 
 Další relevantní externí zdroje 
 [Zdroj 1 - Ikaros](http://ikaros.cz/informacna-architektura)
