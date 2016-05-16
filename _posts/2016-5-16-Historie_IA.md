@@ -1,7 +1,7 @@
 ---
 layout: post
 featured: images/pic02.jpg
-title: Jaké jsou základní principy informační architektury?
+title: Historie Informační Architektury
 ---
 Historie IA
 -------------
@@ -18,6 +18,7 @@ Pojem informační architektura jako vědní disciplína se objevuje v roce 2000
 
 [Zdroj](https://cs.wikipedia.org/wiki/Informa%C4%8Dn%C3%AD_architektura)
 
-Další zdroje 
+Další relevantní externí zdroje 
 [Zdroj 1 - Ikaros](http://ikaros.cz/informacna-architektura)
-[Zdroj 2](http://www.informacni-architektura.wz.cz/)
+
+[Zdroj 2 - Inventic](https://www.inventic.cz/informacni-architektura.html)
